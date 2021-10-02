@@ -80,7 +80,6 @@ fazzy  fazzy::operator / (fazzy b) { // перегрузка деления
     a = (x - e)/(b.x + b.e);
     d = x / b.x;
     c = (x + e) / (b.x - b.e);
-    //cout << "(" << a << "," << d << "," << c << ")" << "\n";
     fazzy f(a, d, c);
     return f;
 } 
