@@ -1,0 +1,41 @@
+1. Input fazzy  2. Print fazzy  3. Sum  4.  Substract   5. Multiply     6. Reverse      7. Divide       8. Compare     9. Exit
+1
+Enter x and e
+2 3
+1. Input fazzy  2. Print fazzy  3. Sum  4.  Substract   5. Multiply     6. Reverse      7. Divide       8. Compare     9. Exit
+2
+(-1,2,5)
+1. Input fazzy  2. Print fazzy  3. Sum  4.  Substract   5. Multiply     6. Reverse      7. Divide       8. Compare     9. Exit
+3
+Enter x and e of second fazzy
+4 5
+first+second = (-2,6,14)
+1. Input fazzy  2. Print fazzy  3. Sum  4.  Substract   5. Multiply     6. Reverse      7. Divide       8. Compare     9. Exit
+4
+Enter x and e of second fazzy
+3 2
+first-second = (-6,-1,4)
+1. Input fazzy  2. Print fazzy  3. Sum  4.  Substract   5. Multiply     6. Reverse      7. Divide       8. Compare     9. Exit
+5
+Enter x and e of second fazzy
+5 8
+first*second = (3,10,65)
+1. Input fazzy  2. Print fazzy  3. Sum  4.  Substract   5. Multiply     6. Reverse      7. Divide       8. Compare     9. Exit
+6
+Revfirst = (0.2,0.5,-1)
+1. Input fazzy  2. Print fazzy  3. Sum  4.  Substract   5. Multiply     6. Reverse      7. Divide       8. Compare     9. Exit
+7
+Enter x and e of second fazzy
+2 6
+first/second = (-0.125,1,-1.25)
+1. Input fazzy  2. Print fazzy  3. Sum  4.  Substract   5. Multiply     6. Reverse      7. Divide       8. Compare     9. Exit
+8
+Enter x and e of second fazzy
+5 6
+second fazzy is larger
+1. Input fazzy  2. Print fazzy  3. Sum  4.  Substract   5. Multiply     6. Reverse      7. Divide       8. Compare     9. Exit
+9
+
+D:\Vsprojects\oop_exercise_02\out\build\x64-Debug\oop_exercise_02\oop_exercise_02.exe (процесс 4044) завершил работу с кодом 0.
+Чтобы автоматически закрывать консоль при остановке отладки, включите параметр "Сервис" ->"Параметры" ->"Отладка" -> "Автоматически закрыть консоль при остановке отладки".
+Нажмите любую клавишу, чтобы закрыть это окно…
